@@ -4,8 +4,8 @@ theme: jekyll-theme-minimal
 tagline: Gamer's Cloud
 description: "Goob & RubDub's Cloud Services"
 author: Matt Faulkner
-baseurl: "https://gr-host-pages.pages.dev/"
-url: "https://www.grhost.net"
+#baseurl: "https://gr-host-pages.pages.dev/"
+#url: "https://www.grhost.net"
 permalink: pretty
 favicon: /assets/img/favicon.ico
 logo: /assets/img/logo_color.png
