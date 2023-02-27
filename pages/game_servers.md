@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: index
 ---
 # Game Server Hosting
 ## Game Server Features
