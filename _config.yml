@@ -1,15 +1,14 @@
-#lang: en
+lang: en
 title: GR Hosting
 theme: jekyll-theme-minimal
 tagline: Gamer's Cloud
 description: "Goob & RubDub's Cloud Services"
 author: GoobyFRS == Matt Faulkner
 #baseurl: "/goobyfrs.github.io"
-url: "https://www.goobyfrs.net"
+url: "https://www.grhost.net"
 permalink: pretty
 favicon: /assets/img/favicon.ico
 logo: /assets/img/logo_color.png
-#google_analytics: UA-234694781-1
 
 plugins:
   - jekyll-sitemap 
