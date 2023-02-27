@@ -9,7 +9,7 @@ author: Matt Faulkner
 permalink: pretty
 favicon: /assets/img/favicon.ico
 logo: /assets/img/logo_color.png
-show_downloads: false
+
 
 plugins:
   - jekyll-sitemap 
