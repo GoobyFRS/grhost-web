@@ -1,4 +1,3 @@
-
 # Cloud Services for Gamers
 **Goobs** and **RubDubs** are on an adventure to bring affordable and reliable game server hosting and more to friends, family, and fellow gamers. 
 
