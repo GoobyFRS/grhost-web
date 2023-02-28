@@ -1,25 +1,18 @@
 # Cloud Services for Gamers
-**Goobs** and **RubDubs** are on an adventure to bring affordable and reliable game server hosting and more to friends, family, and fellow gamers. 
+**Goobs** and **RubDubs** are on an adventure to bring affordable and reliable game server hosting and other cloud services to friends, family, and fellow gamers. Our Denver-based Data Center provides **dedicated** and **shared** resources for game servers and general purpose servers!
 
-Our small Denver-based Data Center provides **dedicated** & **shared** resources for **game servers** as well as **Discord Bot** hosting and General Purpose **VPS's**
+# [Virtual Private Servers](https://grhost.net/pages/services/grcloud)
+Deploy your WordPress site, Game Server, Discord Bots and more on our powerful and expanding Virtual Infrastructure! 
+- Full Root Access
+- Free Subdomain for TLS Certificates
+- [Intel Xeon E5-2680v2](https://ark.intel.com/content/www/us/en/ark/products/75277/intel-xeon-processor-e52680-v2-25m-cache-2-80-ghz.html) CPUs with Error Correcting Memory
 
-- Web Portal Manager with SFTP Access
-- Automated Backups built on a Full SSD Backend
-- 99.8% Uptime with 24x7 Network Monitoring
-- Bring Your Own [AMP by CubeCoders](https://cubecoders.com/AMP) License program.
+### [Goobs Private VPN Service](https://grhost.net/pages/services/vpn-network)
+Learn more about our privately operated adblocking VPN network with various endpoints all over the United States. Shared with Tailscale & Wireguard!
 
-Learn more by following the links in the navigation bar!
-
-### [Goob's AdBlocking VPN Service](https://grhost.net/pages/vpn-network/)
-Learn more about our AdBlocking VPN network with endpoints in...
-- San Jose, CA Endpoint
-- Phoenix, AZ Endpoint
-- Dallas, TX Endpoint
-- Denver, CO Endpoint
-
-### [Bird House Minecraft Server - v1.19.3](https://grhost.net/pages/bird-house/)
-Our standard release server is whitelisted to protect our community. Please full out the [Minecraft Server Whitelist Request Form](https://forms.gle/F55r8R9o7VSUUR9MA) to gain access!
-
-[Minecraft Server Whitelist Request Form](https://forms.gle/F55r8R9o7VSUUR9MA)
+### [Bird House Minecraft Server - v1.19.3](https://grhost.net/pages/bird-house)
+The Bird House is our latest release Java edition Minecraft server. In an effort to protect for our community from bots, hackers, and griefers we have implemented a whitelist. 
+Please fill out the [Minecraft Server Whitelist Request Form](https://forms.gle/F55r8R9o7VSUUR9MA) or [join our Discord](https://discord.gg/8mPhWns7bx) to be accepted. 
+[Click Here to learn more about our Game Server Hosting](https://grhost.net/pages/services/game_servers)
 
 [My LinkTree](https://linktr.ee/goobyfrs)

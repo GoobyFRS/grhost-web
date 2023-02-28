@@ -3,7 +3,7 @@ layout: default
 ---
 # Linode Public Cloud
 ![Linode Partner Asset](https://gooby-s3.us-southeast-1.linodeobjects.com/linode_partner.png)
-Matt Faulkner/GR_Hosting is part of the Linode Partner Network; giving us access to a global network that can support even the largest Enterprise-grade deployments.
+Matt Faulkner/GR_Host is part of the Linode Partner Network; giving us access to a global network that can support even the largest Enterprise-grade deployments.
 
 ## Linode Features
 - Global Network
