@@ -10,24 +10,15 @@ Our small Denver-based Data Center provides **dedicated** & **shared** resources
 
 Learn more by following the links in the navigation bar!
 
-### Goob's AdBlocking VPN Service
-Do you need access to an affordable (free?) but reliable VPN service that can also protect you from malware and block ads? Using [Tailscale](https://tailscale.com/) or [Wireguard](https://www.wireguard.com/) gaining access to my growing network is easy!
-
+### [Goob's AdBlocking VPN Service](https://grhost.net/pages/vpn-network/)
+Learn more about our AdBlocking VPN network with endpoints in...
 - San Jose, CA Endpoint
 - Phoenix, AZ Endpoint
 - Dallas, TX Endpoint
 - Denver, CO Endpoint
 
-[_Consider donating to help cover the costs to operate this network._]((https://www.paypal.com/donate/?business=EXXEUU63GCLRG&no_recurring=0&item_name=All+donations+go+towards+the+upkeep+of+the+GoobyFRS+Network.+This+includes+Game+Servers+%26+VPN+Endpoints+as+well.&currency_code=USD))
-
-### Bird House Minecraft Server - v1.19.3
+### [Bird House Minecraft Server - v1.19.3](https://grhost.net/pages/bird-house/)
 Our standard release server is whitelisted to protect our community. Please full out the [Minecraft Server Whitelist Request Form](https://forms.gle/F55r8R9o7VSUUR9MA) to gain access!
-
-**Bird House Rules**
-- Be Kind & Civil
-- No Harrassment
-- No Greifing or otherwise malicious behaviour.
-- No Advertising Anything    
 
 [Minecraft Server Whitelist Request Form](https://forms.gle/F55r8R9o7VSUUR9MA)
 
