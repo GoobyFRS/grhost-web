@@ -4,7 +4,7 @@ theme: jekyll-theme-minimal
 tagline: Gamer's Cloud
 description: "Cloud Services for Gamers"
 author: Matt Faulkner
-baseurl: "https://gr-host-pages.pages.dev/"
+#baseurl: "https://gr-host-pages.pages.dev/"
 url: "https://www.grhost.net"
 permalink: pretty
 favicon: /assets/img/favicon.ico
