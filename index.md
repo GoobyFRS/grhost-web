@@ -14,5 +14,3 @@ Learn more about our privately operated adblocking VPN network with various endp
 The Bird House is our latest release Java edition Minecraft server. In an effort to protect for our community from bots, hackers, and griefers we have implemented a whitelist. 
 Please fill out the [Minecraft Server Whitelist Request Form](https://forms.gle/F55r8R9o7VSUUR9MA) or [join our Discord](https://discord.gg/8mPhWns7bx) to be accepted. 
 [Click Here to learn more about our Game Server Hosting](https://grhost.net/pages/services/game_servers)
-
-[My LinkTree](https://linktr.ee/goobyfrs)
