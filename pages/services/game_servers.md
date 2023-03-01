@@ -11,8 +11,8 @@ layout: default
 - Bring your own AMP License Program
 
 ### Optional Extras
-- [ ] Extra vCPU -- $3.50/core/month
-- [ ] Managed Game Server Support -- $15/month
+[:heavy_check_mark:] Extra vCPU -- $3.50/core/month
+[:heavy_check_mark:] Managed Game Server Support -- $15/month
 
 # [Minecraft](https://grhost.net/pages/games/minecraft-plans/)
 GR Host supports both **Bedrock** edition and **Java** edition running various jar types as such as [Paper,](https://paperminecraft.io/) [Purpur,](https://purpurmc.org/) [SpigotMC,](https://www.spigotmc.org/) [Forge,](https://files.minecraftforge.net/net/minecraftforge/forge/) and more! 

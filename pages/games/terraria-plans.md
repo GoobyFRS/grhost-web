@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 # Terraria Plans In-Depth
 [Terraria](https://terraria.fandom.com/wiki/Terraria_Wiki)
 GR Hosting supports Vanilla and [tModLoader](https://github.com/tModLoader/tModLoader) versions.
