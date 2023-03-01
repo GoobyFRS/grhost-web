@@ -4,26 +4,26 @@ layout: default
 # Game Server Hosting
 ## Features
 - [Dedicated Game Server VPS](https://www.turnkeylinux.org/gameserver)
-- Free Subdomain
-- Unlimited Bandwidth
-- Unlimited Player Slots
-- Unlimited Disk Space* 
-- Bring your own AMP License Program
+- :heavy_check_mark: Free Subdomain
+- :heavy_check_mark: Unlimited Bandwidth
+- :heavy_check_mark: Unlimited Player Slots
+- :heavy_check_mark: Unlimited Disk Space* 
+- :heavy_check_mark: Bring your own AMP License Program
 
 ### Optional Extras
-[:heavy_check_mark:] Extra vCPU -- $3.50/core/month
-[:heavy_check_mark:] Managed Game Server Support -- $15/month
+- [] Extra vCPU -- $3.50/core/month
+- [] Managed Game Server Support -- $15/month
 
 # [Minecraft](https://grhost.net/pages/games/minecraft-plans/)
 GR Host supports both **Bedrock** edition and **Java** edition running various jar types as such as [Paper,](https://paperminecraft.io/) [Purpur,](https://purpurmc.org/) [SpigotMC,](https://www.spigotmc.org/) [Forge,](https://files.minecraftforge.net/net/minecraftforge/forge/) and more! 
 
-|**Plan**    | Memory | $/month | Reccomended Player Count |
-| ---        | ---  | ---    | ---    |
-|**Grass**   | 1GB  | $3.50  | 8 players |
-|**Copper**  | 2GB  | $6     | 16 players |
-|**Iron**    | 4GB  | $12    | 32 players |
-|**Gold**    | 6GB  | $16    | 60 players |
-|**Platinum**| 8GB  | $24    | 80 players |
+|**Plan**   | Memory | $/month | Reccomended Player Count |
+| ---       | ---  | ---    | ---    |
+|**Grass**  | 1GB  | $3.50  | 8 players |
+|**Copper** | 2GB  | $6     | 16 players |
+|**Iron**   | 4GB  | $12    | 32 players |
+|**Gold**   | 6GB  | $16    | 60 players |
+|**Diamond**| 8GB  | $24    | 80 players |
  
 # [Terraria](https://https://grhost.net/pages/games/terraria-plans/)
 GR Hosting supports Vanilla and [tModLoader](https://github.com/tModLoader/tModLoader) versions.
@@ -37,4 +37,4 @@ GR Hosting supports Vanilla and [tModLoader](https://github.com/tModLoader/tModL
 _Hellstone Plan:_ Recommended for tModLoader, large worlds, and high player-counts!
 
 ## Bring Your Own License
-Do you already own a valid [AMP by CubeCoders](https://cubecoders.com/AMP) license key? Need help purchasing one? Goobs & RubDubs can provide assistance purchasing and installation within the GR_Hosting network. 
+Do you already own a valid [AMP by CubeCoders](https://cubecoders.com/AMP) license key? Need help purchasing one? Goobs & RubDubs can provide assistance purchasing and installation within the GR Host network. 

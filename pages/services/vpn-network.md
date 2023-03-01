@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# Goobs' VPN Network
+# Goobs VPN Network
 Do you need access to an affordable (free?) but reliable VPN service that can also protect you from malware and block ads? Using [Tailscale](https://tailscale.com/) or [Wireguard](https://www.wireguard.com/) gaining access to my network is really easy!
 
 - San Jose, CA Endpoint
