@@ -13,12 +13,12 @@ The following features are free for all our friends/customers leveraging our [Pr
 
 ### Optional Extras
 These features will incur an additional cost.  
-- [ ] Extra vCPU -- $3.50/core/month
-- [ ] Extra Memory -- $3/2GB/month
-- [ ] Increased Storage -- $0.25/GB/month
-- [ ] Private VLAN -- $5/month
-- [ ] Server Monitoring -- $50/month
-- [ ] Server Monitoring & Managed Operating System -- $100/month 
+- :heavy_check_mark: Extra vCPU -- $3.50/core/month
+- :heavy_check_mark: Extra Memory -- $3/2GB/month
+- :heavy_check_mark: Increased Storage -- $0.25/GB/month
+- :heavy_check_mark: Private VLAN -- $5/month
+- :heavy_check_mark: Server Monitoring -- $50/month
+- :heavy_check_mark: Server Monitoring & Managed Operating System -- $100/month 
 
 | **Plan**        | vCPU    | Memory | SSD Disk | Bandwidth | Transfer  | $/mo  |
 | ---             | ---     | ---    | ---      | ---       | ---       | ---   | 
@@ -30,20 +30,11 @@ These features will incur an additional cost.
 | **i2-Large**    | 16 vCPU | 32GB   | 256GB    | 1Gbps     | Unlimited | $96   | 
 
 #### i2-Nano Use Cases
-Great development environments and low-traffic websites such as personal blogs.   
+Great development environments and low-traffic websites such as personal blogs. We operate one as a recursive DNS endpoint.   
 
 #### i2-Mini Use Cases
-Great small database servers, 
-
-#### i2-Small Use Cases
-
-
-#### i2-Standard Use Cases
-
+Great for small database servers, Discord Bots, and small game servers. We operate one as a private Java edition Minecraft server. 
 
 #### i2-Medium Use Cases 
-Great for medium-sized database workloads and servers that need an abundance of compute power. 
-- Media Server
-- Game Server
-#### i2-Large Use Cases
+Great for medium-sized database workloads and servers that need an abundance of compute power. We operate one as a private Jellyfin Media Server.
 
