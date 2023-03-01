@@ -1,21 +1,22 @@
 ---
 layout: default
 ---
-# GR Cloud
-GR Host operates a Data Center with a fiber backbone in Lone Tree for our customers who would like to colocate with us or host their Infrastructure on our hardware!
+# VPS by GR Host 
+GR Host operates a Data Center with a fiber backbone in Lone Tree for our customers who would like to colocate with us or would like to host their Infrastructure on our hardware in the middle of the country!
 
 ## VPS Features
-The following features are free for all our friends/customers leveraging our [Proxmox VE](https://www.proxmox.com/en/) virtual enviroment! 
+The following features are free for all our friends/customers leveraging our [Proxmox VE](https://www.proxmox.com/en/)!
 - Web Management Interface
 - Full Root Access
 - Free Subdomain for TLS Certificates
 - [Intel Xeon E5-2680v2](https://ark.intel.com/content/www/us/en/ark/products/75277/intel-xeon-processor-e52680-v2-25m-cache-2-80-ghz.html) CPUs with Error Correcting Memory
 
 ### Optional Extras
-These features will incur an additional monthly cost.
+These features will incur an additional cost.  
 - [ ] Extra vCPU -- $3.50/core/month
-- [ ] Increased Storage -- $0.25/GB/mo
-- [ ] Private VLAN -- $5/mo
+- [ ] Extra Memory -- $3/2GB/month
+- [ ] Increased Storage -- $0.25/GB/month
+- [ ] Private VLAN -- $5/month
 - [ ] Server Monitoring -- $50/month
 - [ ] Server Monitoring & Managed Operating System -- $100/month 
 
@@ -29,10 +30,10 @@ These features will incur an additional monthly cost.
 | **i2-Large**    | 16 vCPU | 32GB   | 256GB    | 1Gbps     | Unlimited | $96   | 
 
 #### i2-Nano Use Cases
-
+Great development environments and low-traffic websites such as personal blogs.   
 
 #### i2-Mini Use Cases
-
+Great small database servers, 
 
 #### i2-Small Use Cases
 
@@ -41,7 +42,8 @@ These features will incur an additional monthly cost.
 
 
 #### i2-Medium Use Cases 
-
-
+Great for medium-sized database workloads and servers that need an abundance of compute power. 
+- Media Server
+- Game Server
 #### i2-Large Use Cases
 
