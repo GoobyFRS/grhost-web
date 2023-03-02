@@ -6,15 +6,15 @@ When you choose to host with us, a real person will verify resources and provisi
 
 ## Features
 - [Dedicated Game Server VPS](https://www.turnkeylinux.org/gameserver) with dedicated hardware.
-- [ ] Free Subdomain
-- [ ] Unlimited Bandwidth
-- [ ] Unlimited Player Slots
-- [ ] Unlimited Disk Space* 
-- [ ] Bring your own AMP License Program
+- Free Subdomain
+- Unlimited Bandwidth
+- Unlimited Player Slots
+- Unlimited Disk Space* 
+- Bring your own AMP License Program
 
 ### Optional Extras
-- [ ] Extra vCPU -- $3.50/core/month
-- [ ] Managed Game Server Support -- $15/month
+- Extra vCPU -- $3.50/core/month
+- Managed Game Server Support -- $15/month
 
 ## Bring Your Own License
 Do you already own a valid [AMP by CubeCoders](https://cubecoders.com/AMP) license key? Need help purchasing one? Goobs & RubDubs can provide assistance purchasing and installation within the GR Host network or elsewhere.    

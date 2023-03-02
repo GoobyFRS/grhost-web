@@ -13,12 +13,12 @@ The following features are free for all our friends/customers leveraging our [Pr
 
 ### Optional Extras
 These features will incur an additional cost.  
-- :heavy_check_mark: Extra vCPU -- $3.50/core/month
-- :heavy_check_mark: Extra Memory -- $3/2GB/month
-- :heavy_check_mark: Increased Storage -- $0.25/GB/month
-- :heavy_check_mark: Private VLAN -- $5/month
-- :heavy_check_mark: Server Monitoring -- $50/month
-- :heavy_check_mark: Server Monitoring & Managed Operating System -- $100/month 
+- Extra vCPU -- $3.50/core/month
+- Extra Memory -- $3/2GB/month
+- Increased Storage -- $0.25/GB/month
+- Private VLAN -- $5/month
+- Server Monitoring -- $50/month
+- Server Monitoring & Managed Operating System -- $100/month 
 
 | **Plan**        | vCPU    | Memory | SSD Disk | Bandwidth | Transfer  | $/mo  |
 | ---             | ---     | ---    | ---      | ---       | ---       | ---   | 
