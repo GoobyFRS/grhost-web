@@ -8,9 +8,6 @@ Deploy your Game Server, Discord Bots, WordPress site, and more on our powerful 
 - Free Subdomain for TLS Certificates
 - [Intel Xeon E5-2680v2](https://ark.intel.com/content/www/us/en/ark/products/75277/intel-xeon-processor-e52680-v2-25m-cache-2-80-ghz.html) CPUs with Error Correcting Memory
 
-## GR Host on Linode
-GR Host is part of the Linode Partner Network and we can administer a full Linode ecosystem!
-
 ## Goobs Private VPN Service
 [Learn More - VPN Network](https://grhost.net/pages/services/vpn-network)     
 Learn more about our privately operated mobile adblocking VPN network with various endpoints all over the United States. Shared with Tailscale & Wireguard!
