@@ -2,7 +2,7 @@ lang: en
 title: GR Hosting
 theme: jekyll-theme-minimal
 tagline: Gamer's Cloud
-description: "Cloud Services for Gamers"
+description:
 author: Matt Faulkner
 #baseurl: "https://gr-host-pages.pages.dev/"
 url: "https://www.grhost.net"
