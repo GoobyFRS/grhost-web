@@ -2,7 +2,7 @@
 **Goobs** and **RubDubs** are on an adventure to bring affordable and reliable game server hosting and other cloud services to our friends, family, and fellow gamers. Our Denver Data Center is a great centralized location for **dedicated** and **shared** services with users all over the United States! 
 
 ## Virtual Private Servers
-[Learn More - VPS](https://grhost.net/pages/services/grcloud)   
+[Learn More - VPS](https://grhost.net/pages/services/vps-plans)   
 Deploy your Game Server, Discord Bots, WordPress site, and more on our powerful and expanding Proxmox Virtual Infrastructure.  
 - Full Root Access
 - Free Subdomain for TLS Certificates

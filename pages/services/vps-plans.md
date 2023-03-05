@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# VPS by GR Host 
+# VPS Plans by GR Host 
 GR Host operates a Data Center with a fiber backbone in Lone Tree for our customers who would like to colocate with us or would like to host their Infrastructure on our hardware in the middle of the country!
 
 ## VPS Features
@@ -22,7 +22,7 @@ These features will incur an additional cost.
 
 | **Plan**        | vCPU    | Memory | SSD Disk | Bandwidth | Transfer  | $/mo  |
 | ---             | ---     | ---    | ---      | ---       | ---       | ---   | 
-| **i2-Nano**     | 1 vCPU  | 1GB    | 20GB     | 100Mb     | 1TB       | $3.50 | 
+| **i2-Nano**     | 1 vCPU  | 1GB    | 20GB     | 100Mb     | Unlimited | $3.50 | 
 | **i2-Mini**     | 1 vCPU  | 2GB    | 40GB     | 100Mb     | Unlimited | $6    | 
 | **i2-Small**    | 2 vCPU  | 4GB    | 60GB     | 100Mb     | Unlimited | $12   | 
 | **i2-Standard** | 4 vCPU  | 8GB    | 100GB    | 100Mb     | Unlimited | $24   | 
