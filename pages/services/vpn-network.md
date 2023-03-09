@@ -17,4 +17,3 @@ Tailscale is our preferred VPN sharing method. It allows you 'the enduser' an ea
 
 ### Wireguard Setup Process
 - Create how-to video and link it here.
-
