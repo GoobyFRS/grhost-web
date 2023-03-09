@@ -2,6 +2,8 @@
 layout: default
 ---
 # Minecraft Plans in Depth
+> "Minecraft is a 3D sandbox game developed by Mojang Studios where players interact with a fully modifiable three-dimensional environment made of blocks and entities. Its diverse gameplay lets players choose the way they play, allowing for countless possibilities."
+
 GR Host supports both **Bedrock** edition and **Java** edition running various jar types as such as [Paper,](https://paperminecraft.io/) [Purpur,](https://purpurmc.org/) [SpigotMC,](https://www.spigotmc.org/) [Forge,](https://files.minecraftforge.net/net/minecraftforge/forge/) and more! 
 
 ## Features

@@ -2,6 +2,8 @@
 layout: default
 ---
 # Terraria Plans In-Depth
+> "Terraria is a land of adventure! A land of mystery! A land that's yours to shape, defend, and enjoy. Your options in Terraria are limitless. Are you an action gamer with an itchy trigger finger? A master builder? A collector? An explorer? There's something for everyone. "
+
 GR Hosting supports Vanilla and [tModLoader](https://github.com/tModLoader/tModLoader) versions.
 
 ## Features
