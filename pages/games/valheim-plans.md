@@ -19,8 +19,8 @@ layout: default
 
 |**Plan**   | vCPU   | Memory | $/month | Reccomended Player Count |
 | ---       | ---    |  ---  | ---    | ---        |
-|**Val-2** | 4 vCPU |  2GB  | $6    | xx players |
-|**Val-4** | 4 vCPU |  4GB  | $12   | xx players |
+|**Val-2** | 2 vCPU |  2GB  | $6    | xx players |
+|**Val-4** | 2 vCPU |  4GB  | $12   | xx players |
 |**Val-6** | 4 vCPU |  6GB  | $18   | xx players |
 |**Val-8** | 4 vCPU |  8GB  | $24   | xx players |
 

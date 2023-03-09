@@ -44,26 +44,26 @@ Supporting Vanilla and [tModLoader](https://github.com/tModLoader/tModLoader) de
 
 Learn More - Terraria Servers
 
-# RUST
+# [RUST](https://https://grhost.net/pages/games/rust-plans/)
 Add a little detail about Rust servers. 
 
 |**Plan**   | vCPU   | Memory | $/month | Reccomended Player Count |
 | ---       | ---    |  ---  | ---    | ---        |
-|**Rust-2** | 4 vCPU |  2GB  | $6    | xx players |
-|**Rust-4** | 4 vCPU |  4GB  | $12   | xx players |
-|**Rust-6** | 4 vCPU |  6GB  | $18   | xx players |
-|**Rust-8** | 4 vCPU |  8GB  | $24   | xx players |
+|**Rust-2** | 4 vCPU |  2GB  | $6    | 10 players |
+|**Rust-4** | 4 vCPU |  4GB  | $12   | 20 players |
+|**Rust-6** | 4 vCPU |  6GB  | $18   | 30 players |
+|**Rust-8** | 4 vCPU |  8GB  | $24   | 50+ players |
 
 Learn More - RUST Servers
 
-# Valheim
+# [Valheim](https://https://grhost.net/pages/games/valheim-plans/)
 Add a little detail about Valheim servers.
 
 |**Plan**   | vCPU   | Memory | $/month | Reccomended Player Count |
 | ---       | ---    |  ---  | ---    | ---        |
-|**Val-2** | 4 vCPU |  2GB  | $6    | xx players |
-|**Val-4** | 4 vCPU |  4GB  | $12   | xx players |
-|**Val-6** | 4 vCPU |  6GB  | $18   | xx players |
-|**Val-8** | 4 vCPU |  8GB  | $24   | xx players |
+|**Val-2** | 4 vCPU |  2GB  | $6    | 10 players |
+|**Val-4** | 4 vCPU |  4GB  | $12   | 20 players |
+|**Val-6** | 4 vCPU |  6GB  | $18   | 30 players |
+|**Val-8** | 4 vCPU |  8GB  | $24   | 50+ players |
 
 Learn More - Valheim Servers
