@@ -17,12 +17,12 @@ layout: default
 - Extra Memory -- $3/2GB/month
 - Managed Game Server Support -- $15/month
 
-|**Plan**   | vCPU   | Memory | $/month | Reccomended Player Count |
-| ---       | ---    |  ---  | ---    | ---        |
-|**Rust-2** | 4 vCPU |  2GB  | $6    | xx players |
-|**Rust-4** | 4 vCPU |  4GB  | $12   | xx players |
-|**Rust-6** | 4 vCPU |  6GB  | $18   | xx players |
-|**Rust-8** | 4 vCPU |  8GB  | $24   | xx players |
+|**Plan**   | Base Plan   | vCPU   | Memory | $/month | Reccomended Player Count |
+| ---       | ---         | ---    |  ---  | ---    | ---        |
+|**Rust-2** | i2-Small+   | 4 vCPU |  2GB  | $6     | 10 players |
+|**Rust-4** | i2-Small+   | 4 vCPU |  4GB  | $12    | 20 players |
+|**Rust-6** | i2-Small+   | 4 vCPU |  6GB  | $18    | 30 players |
+|**Rust-8** | i2-Standard | 4 vCPU |  8GB  | $24    | 50+ players|
    
 
 [Rust Wiki](https://rust.fandom.com/wiki/Rust_Wiki)

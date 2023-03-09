@@ -2,7 +2,7 @@
 layout: default
 ---
 # VPS Plans by GR Host 
-GR Host operates a Data Center with a fiber backbone in Lone Tree for our customers who would like to colocate with us or would like to host their Infrastructure on our hardware in the middle of the country!
+We operate a Data Center with a fiber backbone in Lone Tree, Colorado for our customers who would like to colocate with us or would like to host their Infrastructure on our hardware in the middle of the country!
 
 ## VPS Features
 The following features are free for all our friends/customers leveraging our [Proxmox VE](https://www.proxmox.com/en/)!
