@@ -12,9 +12,10 @@ We can host a wide range of game servers including....
 [Learn more about all our features here!](https://grhost.net/pages/features/)
 
 ## Discord Bot Hosting
-Looking for world-class uptime? 
+Looking for affordable VPS hosting for your Discord chatbot or development enviroment? Check out our 
+VPS plans here.
 
-## Voice Servers
+### Voice Servers
 We can host your voice servers as well!
 - [Mumble](https://www.mumble.info/)
 
