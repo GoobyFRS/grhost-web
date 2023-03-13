@@ -1,7 +1,7 @@
 # Budget Game Servers
 **Matt(Goobs)** and **Ruby(RubDubs)** are on an adventure to bring affordable and reliable game server hosting and other cloud services to our friends, family, and fellow gamers. Our Denver Data Center is a great centralized location for **dedicated** and **shared** services for users all over the United States! 
 
-## Affordable Game Servers
+## Game Server Solutions
 We can host a wide range of game servers including....
 - [Minecraft Java Edition](https://grhost.net/pages/games/minecraft-plans/)
 - [Minecraft Bedrock Edition](https://grhost.net/pages/games/minecraft-plans/)
@@ -12,18 +12,19 @@ We can host a wide range of game servers including....
 [Learn more about all our features here!](https://grhost.net/pages/features/)
 
 ## Virtual Private Servers
-[Learn More - VPS](https://grhost.net/pages/services/vps-plans)   
-Deploy your Game Server, Discord Bots, WordPress site, and more on our powerful and expanding Proxmox Virtual Infrastructure.  
+[Learn More - VPS Plans](https://grhost.net/pages/services/vps-plans)   
+Deploy your Game Server, Discord Bots, and more on our powerful and expanding Proxmox Virtual Infrastructure.  
 - Full Root Access
-- Free Subdomain for TLS Certificates
-- [Intel Xeon E5-2680v2](https://ark.intel.com/content/www/us/en/ark/products/75277/intel-xeon-processor-e52680-v2-25m-cache-2-80-ghz.html) CPUs with Error Correcting Memory
+- Web Management Panel (Cockpit)
+- Web Console Interface (Proxmox)
+- Bring Your Own OS
 
 ### Discord Bot Hosting
-Looking for affordable VPS hosting for your Discord chatbot or development enviroment? Check out our 
-VPS plans.
+Looking for highly available and genersouly resources containers to host your Discord bot? Look no futher!
+- NodeJS
+- Python3 
 
-### Voice Servers
-We can host your voice servers as well!
-- [Mumble](https://www.mumble.info/)
+### [Mumble](https://www.mumble.info/) Voice Servers
+[Mumble](https://www.mumble.info/) is a popular open-source audio/chat platform amongst many gaming communities. 
 
 

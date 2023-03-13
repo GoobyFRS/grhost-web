@@ -1,15 +1,15 @@
 ---
 layout: default
 ---
-# VPS Plans by GR Host 
+# VPS Plans and Solutions
 We operate a Data Center with a fiber backbone in Lone Tree, Colorado for our customers who would like to colocate with us or would like to host their Infrastructure on our hardware in the middle of the country!
 
 ## VPS Features
 The following features are free for all our friends/customers leveraging our [Proxmox VE](https://www.proxmox.com/en/)!
-- Web Management Interface
 - Full Root Access
-- Free Subdomain for TLS Certificates
-- [Intel Xeon E5-2680v2](https://ark.intel.com/content/www/us/en/ark/products/75277/intel-xeon-processor-e52680-v2-25m-cache-2-80-ghz.html) CPUs with Error Correcting Memory
+- Web Management Panel (Cockpit)
+- Web Console Interface (Proxmox)
+- Bring Your Own OS
 
 ### Optional Extras
 These features will incur an additional cost.  
