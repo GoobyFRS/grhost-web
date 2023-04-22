@@ -1,26 +1,37 @@
 ---
 layout: default
 ---
-# Always Free Features
-## Signature Support
-> "All support requests are processed by a CompTIA certified IT Support technician." 
+# Signature Support
 
+> "All support requests are processed by a CompTIA certified IT Support Technician."
 > "We offer 99.8% monthly uptime with a generous outage-credit policy."
 
-**No Noisy Neighbors**
-> "All game servers and containers are managed with resource utilization monitored by our IT Support staff. "
+## Free Bundled Services
 
-## Game Server Features
-- [Dedicated Game Server VPS](https://www.turnkeylinux.org/gameserver)
-- Free Subdomain
-- Unlimited Bandwidth
-- Unlimited Player Slots
-- Unlimited Disk Space* 
-- Bring your own AMP License Program
+- Free and Managed SSL Certificates
+- Global DDoS Mitigation
+- Daily and Weekly Backups
+- Cloud Firewalls
+
+## Complementary Paid Services
+
+- Advanced Monitoring and Alerting
+- Domain Record Management (Managed DNS)
+- Dynamic DNS Services
 
 ## VPS Features
-The following features are free for all our friends/customers leveraging our [Proxmox VE](https://www.proxmox.com/en/)!
-- Full Root Access
-- Web Management Panel (Cockpit)
-- Web Console Interface (Proxmox)
-- Bring Your Own OS
+
+Say something here about the current-gen AMD EYPC CPUs
+
+- Debian 11 based OS
+- Hardend Security
+
+### Data Center Locations
+
+1. Fremont, California (us-west)
+2. Dallas, Texas (us-central)
+3. Atlanta, Georgia (us-southeast)
+4. Newark, New Jersey (us-northeast)
+5. Toronto, Canada (can-central)
+6. London, England (eu-west)
+7. Sydney, Austrllia (au-central)

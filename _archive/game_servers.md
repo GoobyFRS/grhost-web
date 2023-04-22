@@ -2,26 +2,31 @@
 layout: default
 ---
 # Game Server Hosting by GR Host
+
 When you choose to host with us, a real person will verify resources and provision your own dedicated game server container.
 
 ## Features
+
 - [Dedicated Game Server VPS](https://www.turnkeylinux.org/gameserver)
 - Free Subdomain
 - Unlimited Bandwidth
 - Unlimited Player Slots
-- Unlimited Disk Space* 
+- Unlimited Disk Space*
 - Bring your own AMP License Program
 
 ### Optional Extras
+
 - Extra vCPU -- $3.50/core/month
 - Extra Memory -- $3/2GB/month
 - Managed Game Server Support -- $15/month
 
 ## Bring Your Own License
-Do you already own a valid [AMP by CubeCoders](https://cubecoders.com/AMP) license key? Need help purchasing one? Goobs & RubDubs can provide assistance purchasing and installation within the GR Host network or elsewhere.    
 
-# [Minecraft](https://grhost.net/pages/games/minecraft-plans/)
-Supporting both **Bedrock** edition and **Java** edition running various jar types as such as [Paper,](https://paperminecraft.io/) [Purpur,](https://purpurmc.org/) [SpigotMC,](https://www.spigotmc.org/) [Forge,](https://files.minecraftforge.net/net/minecraftforge/forge/) and more! 
+Do you already own a valid [AMP by CubeCoders](https://cubecoders.com/AMP) license key? Need help purchasing one? Goobs & RubDubs can provide assistance purchasing and installation within the GR Host network or elsewhere.
+
+## [Minecraft](https://grhost.net/pages/games/minecraft-plans/)
+
+Supporting both **Bedrock** edition and **Java** edition running various jar types as such as [Paper,](https://paperminecraft.io/) [Purpur,](https://purpurmc.org/) [SpigotMC,](https://www.spigotmc.org/) [Forge,](https://files.minecraftforge.net/net/minecraftforge/forge/) and more!
 
 |**Plan**   | Memory | $/month | Reccomended Player Count |
 | ---       | ---  | ---    | ---    |
@@ -33,19 +38,21 @@ Supporting both **Bedrock** edition and **Java** edition running various jar typ
 
 Learn More - Minecraft Servers
 
-# [Terraria](https://https://grhost.net/pages/games/terraria-plans/)
+## [Terraria](https://https://grhost.net/pages/games/terraria-plans/)
+
 Supporting Vanilla and [tModLoader](https://github.com/tModLoader/tModLoader) deployments.
 
-|**Plan**     | Memory | $/month | Reccomended Player Count | 
+|**Plan**     | Memory | $/month | Reccomended Player Count |
 | ---         | ---  | ---   | ---   |
-|**Tin**      | 1GB  | $3.50 | 10 players | 
-|**Meteorite**| 2GB  | $6    | 20 players | 
-|**Hellstone**| 3GB  | $10   | 20 players and mods | 
+|**Tin**      | 1GB  | $3.50 | 10 players |
+|**Meteorite**| 2GB  | $6    | 20 players |
+|**Hellstone**| 3GB  | $10   | 20 players and mods |
 
 Learn More - Terraria Servers
 
-# [RUST](https://https://grhost.net/pages/games/rust-plans/)
-Add a little detail about Rust servers. 
+## [RUST](https://https://grhost.net/pages/games/rust-plans/)
+
+Add a little detail about Rust servers.
 
 |**Plan**   | vCPU   | Memory | $/month | Reccomended Player Count |
 | ---       | ---    |  ---  | ---    | ---        |
@@ -56,7 +63,8 @@ Add a little detail about Rust servers.
 
 Learn More - RUST Servers
 
-# [Valheim](https://https://grhost.net/pages/games/valheim-plans/)
+## [Valheim](https://https://grhost.net/pages/games/valheim-plans/)
+
 Add a little detail about Valheim servers.
 
 |**Plan**   | vCPU   | Memory | $/month | Reccomended Player Count |
