@@ -4,6 +4,8 @@ layout: default
 # Signature Features
 
 GR Host is...
+**Shared CPU:** 
+**Dedicated CPU:** 
 
 ## Free Bundled Services for Everyone
 
