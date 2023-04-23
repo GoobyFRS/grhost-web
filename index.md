@@ -5,7 +5,9 @@ We are passionate about providing exceptional support and reliable uptime to emp
 ## Managed WordPress
 
 GR Host achives world-class loading times by leveraging [OpenLiteSpeed](https://openlitespeed.org/) as our WordPress backend. The improved event-driven architecture provides up to 30% faster load times while also reducing hardware resource utilization.
-[Learn more about all our features here!](https://grhost.net/pages/features/)
+
+
+[Learn more about our Managed Plans here!](https://grhost.net/pages/plans/)
 
 ## Managed DNS Services
 

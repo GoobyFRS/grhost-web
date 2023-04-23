@@ -40,7 +40,7 @@ Below you will find an incomprensive list of services we do not offer or officia
 
 1. No Email Server hosting. Please checkout [ProtonMail](https://account.proton.me/refer-a-friend?referrer=9E1AC5Q1T3Z0) instead.
 2. No Professional Web Designer on staff.
-3. our Managed DNS does not currently support DNSSEC
+3. Our Managed DNS does not currently support DNSSEC
 
 ### Company 2023 Road Map
 

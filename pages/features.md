@@ -4,14 +4,13 @@ layout: default
 # Signature Features
 
 GR Host is...
-**Shared CPU:** 
-**Dedicated CPU:** 
 
 ## Free Bundled Services for Everyone
 
 - Free and Managed SSL Certificates
-- Global DDoS Mitigation
 - Daily and Weekly Backups
+- Global DDoS Mitigation
+- IPv4 and IPv6 Support
 - Cloud Firewalls
 - Basic Monitoring and Alerting
 
