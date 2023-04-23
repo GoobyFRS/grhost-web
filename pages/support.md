@@ -1,13 +1,20 @@
 ---
 layout: default
 ---
-# GR Host Support Center
+# Signature Support
 
-[Discord Invite](https://discord.gg/8mPhWns7bx)
+[Discord Invite](https://discord.gg/INVALID)
 
-**Disclaimer:** I am aware that Discord is a terrible platform with poor searching/indexing abilities. However until further notice the best way for us to provide accessible support for a widerange of gamers in a convientent manner is by the Discord server linked above. In the near future we plan to implement an online helpdesk.  
+> "All support requests are processed by a CompTIA certified IT Support Technician."
 
-***
+**Disclaimer:** GR Host is aware that Discord is a terrible platform with poor searching/indexing abilities. However until further notice the best way for us to provide accessible support for a widerange of users in a convientent manner is by the Discord server linked above. In the near future we plan to implement an online helpdesk.  
+
+> "We offer 99.8% monthly uptime with a generous outage-credit policy."
+
+- [Service Level Agreement](/pages/legal/service-level-agreement/)
+- [Terms of Service](/pages/legal/terms-of-service/)
+- [Privacy Policy](/pages/legal/privacy-policy/)
+- [Status Page](grhosted.statuspage.io/)
 
 ## Frequently Asked Questions
 
@@ -25,19 +32,17 @@ layout: default
 6. London, England (eu-west)
 7. Sydney, Austrllia (au-central)
 
-[Service Level Agreement](/pages/legal/service-level-agreement/)
-[Terms of Service](/pages/legal/terms-of-service/)
-[Privacy Policy](/pages/legal/privacy-policy/)
-[Status Page](grhosted.statuspage.io/)
+Click to learn more about the [Linode Global Infrastructure](https://www.linode.com/global-infrastructure/)
 
 ### Limitations
 
 Below you will find an incomprensive list of services we do not offer or officially support...
 
-1. Email Servers - Please checkout ProtonMail instead!
-2. No Professional Web Designers on Staff
+1. No Email Server hosting. Please checkout [ProtonMail](https://account.proton.me/refer-a-friend?referrer=9E1AC5Q1T3Z0) instead.
+2. No Professional Web Designer on staff.
+3. our Managed DNS does not currently support DNSSEC
 
-### Road Map
+### Company 2023 Road Map
 
 1. Redevelop Business Model and Plan
 2. Hire a Web Designer

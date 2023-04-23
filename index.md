@@ -1,18 +1,20 @@
 # Blazing Fast Web Hosting
 
-GR Host is a small Cloud Services Provider offering professionally Managed WordPress websites based on OpenLiteSpeed Technology. 
+We are passionate about providing exceptional support and reliable uptime to empower our customers' businesses. Give us a shout and find out if we can save you time or money on your small-business website hosting!
 
-## LiteSpeed WordPress
+## Managed WordPress
 
+GR Host achives world-class loading times by leveraging [OpenLiteSpeed](https://openlitespeed.org/) as our WordPress backend. The improved event-driven architecture provides up to 30% faster load times while also reducing hardware resource utilization.
 [Learn more about all our features here!](https://grhost.net/pages/features/)
-GR Host is one of t
 
 ## Managed DNS Services
 
+GR Host offers affordable managed DNS services for customers leveraging our internal Domain Procurment process. If you are interested in our Managed DNS Services and already own a domain name, please contact GR Support.
 [Learn more about all our features here!](https://grhost.net/pages/features/)
-GR Host offers affordable managed DNS services. Contact us to learn more!
 
 ### Data Center Locations
+
+GR Host supports near '1-Click' WordPress deployments at 7 data centers across 4 countires and 3 continents to ensure your website is as close to your customers as possible. These data centers leverage modern enterprise-grade AMD processors providing world-class website loading experinence, boosting your SEO!
 
 1. Fremont, California (us-west)
 2. Dallas, Texas (us-central)
