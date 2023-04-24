@@ -3,7 +3,7 @@ layout: default
 ---
 # Signature Support
 
-[Discord Invite](https://discord.gg/INVALID)
+[Discord Invite](https://discord.gg/8mPhWns7bx)
 
 > "All support requests are processed by a CompTIA certified IT Support Technician."
 
