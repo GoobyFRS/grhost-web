@@ -3,11 +3,12 @@ layout: default
 ---
 # Signature Features
 
-GR Host is...
+High Availability and System Security are at the core of everything we do and offer.
 
 ## Free Bundled Services for Everyone
 
 - Free and Managed SSL Certificates
+- Free Subdomain
 - Daily and Weekly Backups
 - Global DDoS Mitigation
 - IPv4 and IPv6 Support
@@ -19,10 +20,6 @@ GR Host is...
 - Advanced Monitoring and Alerting
 - Domain Registration
 - Dynamic DNS Services
-
-### Modern Hardware
-
-GR Host is a value-added reseller of Linode. All web servers are operated on modern AMD Milan-series EYPC processors.
 
 ### Security Taken Seriously
 

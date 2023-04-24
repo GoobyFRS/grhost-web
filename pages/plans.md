@@ -3,34 +3,35 @@ layout: default
 ---
 # GR Host Plans
 
-GR Host offers world-class uptime at very affordable rates.
+GR Host offers world-class uptime at very affordable rates. We take great pride in delivering superior customer service and safeguarding our clients infrastucture. We strive to go above and beyond to meet and exceed our customers' expectations because we know you could switch and spend money with a larger business.
 
 ## Managed WordPress Plans
 
-These plans are great for smaller websites such as those for Service-Based Businesses and Freelancers. Based on a **Shared CPU** deployments, these plans a perfect for most workloads, offering a balanced array of performance.
+Our standard Managed WordPress plans are great for websites such as those for Service-Based Businesses and Freelancers. Enable growth for your online business leveraging our 99.99% uptime infrastructure!
 
-| **Plan Name** | **Monthly Price** | **vCPU** | **Memory** | **Local Storage** |
-| Nano | $20 | 1 | 1GB | 20GB |
-| Small | $30 | 1 | 2GB | 50GB |
-| Plus | $60 | 2 | 4GB | 80GB |
-| Large | $110 | 4 | 8GB | 160GB |
+| **Plan Name** | **Monthly Price** | **Storage** | **Bandwidth** |
+| Mini | $20 | 20GB | 1TB |
+| Starter | $30 | 80GB | 4TB |
+| Deluxe | $85 | 80GB | 4TB |
 
-Even Nano plans can run a small WooCommerce plugin with reasonable performance expectations.
+## Managed eCommerce
 
-## Managed eCommerce Plans
+These plans are ideal for medium-sized business websites and [WooCommerce](https://woocommerce.com/) webshops. Our **Managed eCommerce** plans operate on **Dedicated CPU** deployments. These plans a perfect for business critical applications that require full blast performance 24/7/365 with absoluely no resource contention or nosiy neighbors.
 
-These plans are ideal for medium-sized business websites and [WooCommerce](https://woocommerce.com/) webshops. Based on a **Dedicated CPU** deployments, these plans a perfect for most business critical applications. Full blast performance 24/7/365 with absoluely no resource contentions.
+| **Plan Name** | **Monthly Price** | **Storage** | **Bandwidth** |
+| Professional | $250 | xxxGB | xTB |
+| Ultimate | $350 | xxxGB | xTB |
 
-| **Plan Name** | **Monthly Price** | **vCPU** | **Memory** | **Local Storage** |
-| Starter | $100 | 2 | 4GB | 80GB |
-| Deluxe | $200 | 4 |  8GB | 160GB |
-| Professional | $400 | 8 | 16GB | 320GB |
-| Ultimate | $750 | 16 | 32GB | 640GB |
+## Profesional Services
+
+GR Host offers....
 
 ## Managed DNS Services
 
-Multi-Vendor Domain purchasing and management!
+Self-Service DNS Manager coming soon!
+Dynamic DNS Services coming soon!
 
 ### Advanced Monitoring and Alerting
 
-$80/server/month
+GR Host offers 24x7x365 NOC services for our customers infrastructure. Offering in-depth performance and security monitoring we can respond to any outages on your behalf.
+**Starting at $80 per website per month**

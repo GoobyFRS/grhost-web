@@ -2,20 +2,15 @@
 
 We are passionate about providing exceptional support and reliable uptime to empower our customers' businesses. Give us a shout and find out if we can save you time or money on your small-business website hosting!
 
-## Managed WordPress
+## Managed LiteSpeed WordPress
 
 GR Host achives world-class loading times by leveraging [OpenLiteSpeed](https://openlitespeed.org/) as our WordPress backend. The improved event-driven architecture provides up to 30% faster load times while also reducing hardware resource utilization.
 
 [Learn more about our Managed Plans here!](https://grhost.net/pages/plans/)
 
-## Managed DNS Services
-
-GR Host offers affordable managed DNS services for customers leveraging our internal Domain Procurment process. If you are interested in our Managed DNS Services and already own a domain name, please contact GR Support.
-[Learn more about all our features here!](https://grhost.net/pages/features/)
-
 ### Data Center Locations
 
-GR Host supports near '1-Click' WordPress deployments at 7 data centers across 4 countires and 3 continents to ensure your website is as close to your customers as possible. These data centers leverage modern enterprise-grade AMD processors providing world-class website loading experinence, boosting your SEO!
+GR Host operated a robust infrastructure spanning *11 data centers** worldwide. Across **8 countires** and **4 continents** to ensure your website is as close to your customers as possible. Our data centers leverage modern 'Milan' series AMD EYPC processors to provide a reposonive web experinence!
 
 1. Fremont, California (us-west)
 2. Dallas, Texas (us-central)
@@ -23,4 +18,8 @@ GR Host supports near '1-Click' WordPress deployments at 7 data centers across 4
 4. Newark, New Jersey (us-northeast)
 5. Toronto, Canada (can-central)
 6. London, England (eu-west)
-7. Sydney, Austrllia (au-central)
+7. Frankfurt, Germany (eu-central)
+8. Singapore (ap-south)
+9. Mumbai, India (ap-west)
+10. Tokyo, Japan (ap-northeast)
+11. Sydney, Austrllia (ap-southeast)

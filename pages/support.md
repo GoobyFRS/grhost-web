@@ -30,7 +30,11 @@ layout: default
 4. Newark, New Jersey (us-northeast)
 5. Toronto, Canada (can-central)
 6. London, England (eu-west)
-7. Sydney, Austrllia (au-central)
+7. Frankfurt, Germany (eu-central)
+8. Singapore (ap-south)
+9. Mumbai, India (ap-west)
+10. Tokyo, Japan (ap-northeast)
+11. Sydney, Austrllia (ap-southeast)
 
 Click to learn more about the [Linode Global Infrastructure](https://www.linode.com/global-infrastructure/)
 
@@ -48,3 +52,4 @@ Below you will find an incomprensive list of services we do not offer or officia
 2. Hire a Web Designer
 3. Develop an End-User Interface
 4. Develop a Dynamic DNS Client
+5. Support End-User(s) mutli-site management panel
