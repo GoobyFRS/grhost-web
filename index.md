@@ -10,7 +10,7 @@ GR Host achives world-class loading times by leveraging [OpenLiteSpeed](https://
 
 ### Data Center Locations
 
-GR Host operated a robust infrastructure spanning *11 data centers** worldwide. Across **8 countires** and **4 continents** to ensure your website is as close to your customers as possible. Our data centers leverage modern 'Milan' series AMD EYPC processors to provide a reposonive web experinence!
+GR Host operated a robust infrastructure spanning **11 data centers** worldwide. Across **8 countires** and **4 continents** to ensure your website is as close to your customers as possible. Our data centers leverage modern 'Milan' series AMD EYPC processors to provide a reposonive web experinence!
 
 1. Fremont, California (us-west)
 2. Dallas, Texas (us-central)
