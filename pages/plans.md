@@ -37,5 +37,4 @@ Dynamic DNS Services coming soon!
 
 ### Advanced Monitoring and Alerting
 
-GR Host offers 24x7x365 NOC services for our customers infrastructure. Offering in-depth performance and security monitoring we can respond to any outages on your behalf.
-**Starting at $80 per website per month**
+GR Host offers 24x7x365 NOC services for our customers infrastructure. Offering in-depth performance and security monitoring we can respond to any outages on your behalf **Starting at $80 per website per month.**
