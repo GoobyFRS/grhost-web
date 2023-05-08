@@ -7,6 +7,7 @@ GR Host is a small business focued on enabling other small businesses. We are pa
 We use [OpenLiteSpeed](https://openlitespeed.org/) for our **Managed WordPress** customers. Their custom event-driven architecture paired with modern [AMD EYPC processors](https://www.amd.com/en/processors/epyc-7003-series) and entirely SSD storage results in 30% faster load times than many of our competitors. Freelancer plans starting at $20/month. Professional eCommerce plans starting at $100/month.
 
 [Learn more about our Managed Plans here!](https://grhost.net/pages/plans/)
+
 Still not sure what plan is best for you? Reach out to our [Support Team on Slack!](https://join.slack.com/t/grhost/shared_invite/zt-1uoea9gjm-Hq6gXuhE7voA~T77kjE5Sg)
 
 ### Data Center Locations
