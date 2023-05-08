@@ -3,38 +3,25 @@ layout: default
 ---
 # GR Host Plans
 
-GR Host offers world-class uptime at very affordable rates. We take great pride in delivering superior customer service and safeguarding our clients infrastucture. We strive to go above and beyond to meet and exceed our customers' expectations because we know you could switch and spend money with a larger business.
+GR Host takes great pride in delivering superior customer service and safeguarding our clients infrastucture. We strive to go above and beyond to meet and exceed our customers' expectations because we know you could switch and spend money with a larger business.
 
-## Managed WordPress Plans
+## Shared Hosting Plans
 
-Our standard Managed WordPress plans are great for websites such as those for Service-Based Businesses and Freelancers. Enable growth for your online business leveraging our 99.99% uptime infrastructure!
-
-| **Plan Name** | **Monthly Price** | **Storage** | **Bandwidth** | **Monthly Visitors** |
-| Mini | $20 | 20GB | 1TB | 60,000 |
-| Starter | $30 | 80GB | 4TB | 100,000 |
-| Deluxe | $85 | 80GB | 4TB | 160,000 |
-
-**Monthly Visitors Disclaimer:** These numbers are educated guesses based on internal testing of our custom deployments.
-
-## Managed eCommerce
-
-These plans are ideal for medium-sized business websites and [WooCommerce](https://woocommerce.com/) webshops. Our **Managed eCommerce** plans operate on **Dedicated CPU** deployments. These plans a perfect for business critical applications that require full blast performance 24/7/365 with absoluely no resource contention or nosiy neighbors.
+Our **Shared** WordPress plans are great for all types of websites! Designed for Freelancers, Service Businesses, and online shops! Enable growth for your online business leveraging our [100% uptime infrastructure!](https://grhosted.statuspage.io/) We take pride ensuring that you are not impacted by noisey nieghbors who overconsume resources.
 
 | **Plan Name** | **Monthly Price** | **Storage** | **Bandwidth** | **Monthly Visitors** |
-| Professional | $250 | xxxGB | xTB | 100,000 |
-| Ultimate | $350 | xxxGB | xTB | 300,000 |
+| Starter       | $20 | 20GB | 1TB | 60,000  |
+| Standard      | $40 | 75GB | 4TB | 100,000 |
+| Deluxe        | $85 | 75GB | 4TB | 160,000 |
 
-**Monthly Visitors Disclaimer:** These numbers are educated guesses based on internal testing of our custom deployments.
+## Dedicated Hosting Plans
 
-## Profesional Services
+**Dedicated** plans are ideal for Medium-sized business websites or [WooCommerce](https://woocommerce.com/) webshops that operate as Full-Time income. These custom deployments operate with staticly allocated resources. You will never encounter resource contention and are allowed 100% resource utilization 24/7.
 
-GR Host offers....
+| **Plan Name** | **Monthly Price** | **Storage** | **Bandwidth** | **Monthly Visitors** |
+| Professional | $100 | 75GB  | 4TB | 200,000  |
+| Ultimate     | $250 | 150GB | 5TB | 300,000 |
 
-## Managed DNS Services
+**Monthly Visitors Disclaimer:** These numbers are approximates for our custom deployments.
 
-Self-Service DNS Manager coming soon!
-Dynamic DNS Services coming soon!
-
-### Advanced Monitoring and Alerting
-
-GR Host offers 24x7x365 NOC services for our customers infrastructure. Offering in-depth performance and security monitoring we can respond to any outages on your behalf **Starting at $80 per website per month.**
+**Billing Disclaimer:** Yearly subscriptions are 10% cheaper than monthly plans. Cancellations are rounded to the month.

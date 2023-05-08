@@ -5,7 +5,7 @@ layout: default
 
 ## Who we are
 
-Our website address is grhost.net and we are owned by...
+Our website address is grhost.net and we are owned by [Matt Faulkner](https://www.mattfaulkner.net/)
 
 ### Cookies
 
@@ -13,21 +13,19 @@ GR Host does not leverage cookies on this website.
 
 ### Caching
 
-This site utilizes caching in order to facilitate a faster response time and better user experience. Caching potentially stores a duplicate copy of every web page that is on display on this site. All cache files are temporary, and are never accessed by any third party, except as necessary to obtain technical support from the cache plugin vendor. Cache files expire on a schedule set by the site administrator, but may easily be purged by the admin before their natural expiration, if necessary. We may use QUIC.cloud services to process & cache your data temporarily.
+This site utilizes caching in order to facilitate a faster response time and better user experience. Caching potentially stores a duplicate copy of every web page that is on display on this site. All cache files are temporary, and are never accessed by any third party, except as necessary to obtain technical support from the cache plugin vendor. Cache files expire on a schedule set by the site administrator, but may easily be purged by the admin before their natural expiration, if necessary.
 
 ### Embedded content from other websites
 
-Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.
-
-These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.
+Fortunately, we have no external embeds that we share content with.
 
 ### Who we share your data with
 
-For Analytics purposes only, GR Host does utilize CloudFlare Web Analytics. Their Privacy Policy can be found below.
+For Analytics purposes only, GR Host does utilize CloudFlare Web Analytics. Their Privacy Policy can be found [here](https://www.cloudflare.com/privacypolicy/).
 
 ### How long we retain your data
 
-GR Host does not collect any data from visitors and users of this website. 
+GR Host does not collect any data from visitors and users of this website. Thus we retain none.
 
 ### Payment Processing
 
