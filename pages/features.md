@@ -3,7 +3,7 @@ layout: default
 ---
 # Signature Features for All
 
-High Availability, System Security, and Customer Satisfaction are at the core of everything we do. That is why we offer hassle- free
+High Availability, System Security, and Customer Satisfaction are at the core of everything we do. That is why we offer hassle-free...
 
 - Managed SSL Certificates increasing your security and Search Engine credability.
 - Daily and Weekly Backups to ensure business continuity and easy rollbacks.

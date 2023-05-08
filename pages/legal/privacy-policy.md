@@ -3,6 +3,8 @@ layout: default
 ---
 # Privacy Policy
 
+**Last Updated** 5-8-2023
+
 ## Who we are
 
 Our website address is grhost.net and we are owned by [Matt Faulkner](https://www.mattfaulkner.net/)

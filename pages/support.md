@@ -13,14 +13,13 @@ High Availability and System Security are at the core of everything we do. All s
 
 ## Legal and Privacy
 
-[Service Level Agreement](/pages/legal/service-level-agreement/)
+[Service Level Agreement](/pages/legal/service-level-agreement/) - Read our agreememnt on uptime and customer credits.
 
-[Terms of Service](/pages/legal/terms-of-service/)
+[Terms of Service](/pages/legal/terms-of-service/) - Read our agreement on hosted content and resource utilization.
 
-[Privacy Policy](/pages/legal/privacy-policy/)
+[Privacy Policy](/pages/legal/privacy-policy/) - Read how we collect and use your data. Plot-twist, we do not.
 
-
-[Status Page](grhosted.statuspage.io/)
+[Status Page](grhosted.statuspage.io/) - 90 day public Statuc/Incident Page
 
 ## Frequently Asked Questions
 

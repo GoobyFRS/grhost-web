@@ -3,6 +3,8 @@ layout: default
 ---
 # Service Level Agreement
 
+**Last Updated** 5-8-2023
+
 GR Host shall use all reasonable commercial efforts, being no less than accepted industrial standards in this regard to ensure that your GR Host service is available to you (the Customer) 99.98% of the time in any given calendar month. If not, you may be eligible for Customer Service Credits described below.
 
 _Definitions. The following definitions shall apply to the GR Host SLA._
@@ -26,7 +28,11 @@ For every 1 minute of outage, GR Host will credit 15 minutes.
 
 **Maximum Customer Service Credit.** The aggregated maximum number of Client Service Credits you can claim for any Downtime periods that occur in a single calendar month shall not exceed 1 month of service credit added to your credit balance.
 
+***
+
 **Uptime SLA Exclusions:** This Uptime SLA does not apply to any performance issues caused by:
 
-- Factors outside of GR Host’s reasonable control
+- Factors outside of GR Hosts' reasonable control
 - Factors that result from actions or inactions of you and any third parties
+
+No service credit shall be available under the Terms of Service for interruptions, suspensions, or terminations of service arising from or related to any violation of this Policy.
