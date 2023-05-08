@@ -13,17 +13,13 @@ High Availability, System Security, and Customer Satisfaction are at the core of
 
 ## Complementary Paid Services
 
-**Advanced Monitoring and Alerting** - $12.00/month
-Aimed at business customers, our Advanced Monitoring and Alerting package provides deeper analytics allowing our Technicians to troubleshoot and resolve issues faster. You also get monthly reports on server performance.
+**Advanced Monitoring and Alerting** - $12.00/month - Aimed at business customers, our Advanced Monitoring and Alerting package provides deeper analytics allowing our Technicians to troubleshoot and resolve issues faster. You also get monthly reports on server performance.
 
-**Domain Registration** - $20.00/year
-Allow GR Host's knowledge Technicians help you purchase and manage your ICANN registered Domain!
+**Domain Registration** - $20.00/year - Allow GR Host's knowledge Technicians help you purchase and manage your ICANN registered Domain!
 
-**Managed DNS Services** - $25.00/month
-Is your business self-hosting services with a Dynamic IP? GR Host can support your business using our in-house and open-source Dynamic DNS client to keep your domain to your Public WAN address.
+**Managed DNS Services** - $25.00/month - Is your business self-hosting services with a Dynamic IP? GR Host can support your business using our in-house and open-source Dynamic DNS client to keep your domain to your Public WAN address.
 
-**Content Delivery Add-On** -  $55.00/month
-If your customers demand the fastest load times or you are eye-candy heavy we can get you even closer to your customers! We will put your website behind [CloudFlare](https://www.cloudflare.com/) to leverage their increased security and caching technologies.
+**Content Delivery Add-On** - $55.00/month - If your customers demand the fastest load times or you are eye-candy heavy we can get you even closer to your customers! We will put your website behind [CloudFlare](https://www.cloudflare.com/) to leverage their increased security and caching technologies.
 
 ### Security Taken Seriously
 

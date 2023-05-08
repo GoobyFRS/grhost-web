@@ -7,7 +7,7 @@ GR Host takes great pride in delivering superior customer service and safeguardi
 
 ## Shared Hosting Plans
 
-Our **Shared** WordPress plans are great for all types of websites! Designed for Freelancers, Service Businesses, and online shops! Enable growth for your online business leveraging our [100% uptime infrastructure!](https://grhosted.statuspage.io/) We take pride ensuring that you are not impacted by noisey nieghbors who overconsume resources.
+Our **Shared** WordPress plans are great for all types of websites! Designed for Freelancers, Service Businesses, and online shops! Enable growth for your online business leveraging our [100% uptime infrastructure!](https://grhost.statuspage.io/) We take pride ensuring that you are not impacted by noisey nieghbors who overconsume resources.
 
 | **Plan Name** | **Monthly Price** | **Storage** | **Bandwidth** | **Monthly Visitors** |
 | Starter       | $20 | 20GB | 1TB | 60,000  |
