@@ -19,7 +19,7 @@ High Availability and System Security are at the core of everything we do. All s
 
 [Privacy Policy](/pages/legal/privacy-policy/) - Read how we collect and use your data. Plot-twist, we do not.
 
-[Status Page](grhost.statuspage.io/) - 90 day public Statuc/Incident Page
+[Status Page](https://grhost.statuspage.io/) - 90 day public Statuc/Incident Page
 
 ## Frequently Asked Questions
 
