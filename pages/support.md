@@ -3,32 +3,41 @@ layout: default
 ---
 # Signature Support
 
-High Availability and System Security are at the core of everything we do.
+High Availability and System Security are at the core of everything we do. All support requests are processed by a CompTIA certified IT Support Technician.
 
-[Discord Invite](https://discord.gg/8mPhWns7bx)
 [Slack Invite](https://join.slack.com/t/grhost/shared_invite/zt-1uoea9gjm-Hq6gXuhE7voA~T77kjE5Sg)
 
-> "All support requests are processed by a CompTIA certified IT Support Technician."
+[Discord Invite](https://discord.gg/8mPhWns7bx)
 
 **Disclaimer:** GR Host is migrating from Discord to Slack for **Live Chat Support** available Monday - Friday 10am to 4pm MST. All secured communication should occur via email. Please whitelist ...
 
-- [Service Level Agreement](/pages/legal/service-level-agreement/)
-- [Terms of Service](/pages/legal/terms-of-service/)
-- [Privacy Policy](/pages/legal/privacy-policy/)
-- [Status Page](grhosted.statuspage.io/)
+## Legal and Privacy
+
+[Service Level Agreement](/pages/legal/service-level-agreement/)
+
+[Terms of Service](/pages/legal/terms-of-service/)
+
+[Privacy Policy](/pages/legal/privacy-policy/)
+
+
+[Status Page](grhosted.statuspage.io/)
 
 ## Frequently Asked Questions
 
 Q1: What Domain Registrar do you reccomend?
+
 A1: [Google Domains](https://domains.google/) or [PorkBun](https://porkbun.com/)
 
 Q2: Why don't you offer email?
+
 A2: We simply do not have the expertise. We do not offer products or solutions we cannot fully back? However for privacy seekers, we like [ProtonMail](https://proton.me/).
 
 Q3: Who is your Data Center provider?
+
 A3: GR Host is a value-added reseller of [Linode](https://www.linode.com/lp/refer/?r=d46f7cf236f69208c12b9ebc684046a2f8516247)
 
 Q4: Why is your site ugly?
+
 A4: Same reason we do not offer design services, its not what we are great at! Maybe one day!!
 
 More to come.
