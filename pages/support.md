@@ -29,7 +29,7 @@ A1: [Google Domains](https://domains.google/) or [PorkBun](https://porkbun.com/)
 
 Q2: Why don't you offer email?
 
-A2: We simply do not have the expertise. We do not offer products or solutions we cannot fully back? However for privacy seekers, we like [ProtonMail](https://proton.me/).
+A2: We simply do not have the expertise. We do not offer products or solutions we cannot fully back? Privacy seekers may like [ProtonMail](https://proton.me/).
 
 Q3: Who is your Data Center provider?
 

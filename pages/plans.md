@@ -3,11 +3,11 @@ layout: default
 ---
 # GR Host Plans
 
-GR Host takes great pride in delivering superior customer service and safeguarding our clients infrastucture. We strive to go above and beyond to meet and exceed our customers' expectations because we know you could switch and spend money with a larger business.
+GR Host takes great pride in delivering superior customer service and safeguarding our clients infrastructure. We strive to go above and beyond to meet and exceed our customers' expectations because we know you could switch and spend money with a larger business.
 
 ## Shared Hosting Plans
 
-Our **Shared** WordPress plans are great for all types of websites! Designed for Freelancers, Service Businesses, and online shops! Enable growth for your online business leveraging our [100% uptime infrastructure!](https://grhost.statuspage.io/) We take pride ensuring that you are not impacted by noisey nieghbors who overconsume resources.
+Our **Shared** WordPress plans are great for all types of websites! Designed for Freelancers, Service Businesses, and online shops! Enable growth for your online business leveraging our [100% uptime infrastructure!](https://grhost.statuspage.io/) We take pride in ensuring that you are not impacted by noisy neighbors who over consume resources.
 
 | **Plan Name** | **Monthly Price** | **Storage** | **Bandwidth** | **Monthly Visitors** |
 | Starter       | $20 | 20GB | 1TB | 60,000  |
@@ -16,7 +16,7 @@ Our **Shared** WordPress plans are great for all types of websites! Designed for
 
 ## Dedicated Hosting Plans
 
-**Dedicated** plans are ideal for Medium-sized business websites or [WooCommerce](https://woocommerce.com/) webshops that operate as Full-Time income. These custom deployments operate with staticly allocated resources. You will never encounter resource contention and are allowed 100% resource utilization 24/7.
+**Dedicated** plans are ideal for Medium-sized business websites or [WooCommerce](https://woocommerce.com/) webshops that operate as Full-Time income. These custom deployments operate with statically allocated resources. You will never encounter resource contention and are allowed 100% resource utilization 24/7.
 
 | **Plan Name** | **Monthly Price** | **Storage** | **Bandwidth** | **Monthly Visitors** |
 | Professional | $100 | 75GB  | 4TB | 200,000  |

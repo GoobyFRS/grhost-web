@@ -1,10 +1,10 @@
 # Silly Fast Web Hosting
 
-GR Host is a small business focued on enabling other small businesses. We are passionate about providing exceptional support and reliable uptime to our customers. Remove the complications that come with website hosting and let our experts handle the technical. We think you should use us! We are highly motiviated to support your growth. Lets grow together???
+GR Host is a small business focused on enabling other small businesses. We are passionate about providing exceptional support and reliable uptime to our customers. Remove the complications that come with website hosting and let our experts handle the technical. We think you should use us! We are highly motivated to support your growth. Let's grow together???
 
 ## LiteSpeed WordPress
 
-We use [OpenLiteSpeed](https://openlitespeed.org/) for our **Managed WordPress** customers. Their custom event-driven architecture paired with modern [AMD EYPC processors](https://www.amd.com/en/processors/epyc-7003-series) and entirely SSD storage results in 30% faster load times than many of our competitors. Freelancer plans starting at $20/month. Professional eCommerce plans starting at $100/month.
+We use [OpenLiteSpeed](https://openlitespeed.org/) for our **Managed WordPress** customers. Their custom event-driven architecture paired with modern [AMD EYPC processors](https://www.amd.com/en/processors/epyc-7003-series) and entirely SSD storage results in 30% faster load times than many of our competitors. Freelance plans starting at $20/month. Professional eCommerce plans starting at $100/month.
 
 [Learn more about our Managed Plans here!](https://grhost.net/pages/plans/)
 
@@ -12,7 +12,7 @@ Still not sure what plan is best for you? Reach out to our [Support Team on Slac
 
 ### Data Center Locations
 
-GR Host infrastructure spans **11 data centers** worldwide. We are in **8 countires** and **4 continents** to ensure that your website is as close to your customers as possible. Our data centers leverage modern 'Milan' series AMD EYPC processors and are backed by [Akamai](https://www.akamai.com/) one of the largest Content Delivery Networks in the world!
+GR Host infrastructure spans **11 data centers** worldwide. We are in **8 countries** and **4 continents** to ensure that your website is as close to your customers as possible. Our data centers leverage modern 'Milan' series AMD EYPC processors and are backed by [Akamai](https://www.akamai.com/) one of the largest Content Delivery Networks in the world!
 
 1. Fremont, California (us-west)
 2. Dallas, Texas (us-central)
