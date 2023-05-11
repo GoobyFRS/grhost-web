@@ -21,8 +21,8 @@ _Definitions. The following definitions shall apply to the GR Host SLA._
 
 _Customer Service Credits will be provided according to the following schedule:_
 
-**Customer Credit:** Includes a 1:15 of service credit added to the account credit balance, if your Monthly Uptime Percentage for any given calendar month is below 99.9%.
-For every 1 minute of outage, GR Host will credit 15 minutes.
+**Customer Credit:** Includes a 1:25 of service credit added to the account credit balance, if your Monthly Uptime Percentage for any given calendar month is below 99.9%.
+For every 1 minute of outage, GR Host will credit 25 minutes.
 
 **Customer Must Request Credit.** In order to receive any Customer Service Credits described above, you must notify GR Host by email or otherwise in writing within twenty-eight (28) days from the time you become eligible to receive a Client Service Credit.
 
